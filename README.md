@@ -1,2 +1,2 @@
-# api.github.io
+# ebonexapi.github.io
 OpenAPI for Ebonex
